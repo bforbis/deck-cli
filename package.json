@@ -1,0 +1,25 @@
+{
+  "name": "deck-cli",
+  "version": "1.0.0",
+  "description": "A command line program that lets you draw from an arbitrary amount of decks",
+  "main": "cards.js",
+  "scripts": {
+    "start": "node cards.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bforbis/deck-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bforbis/deck-cli/issues"
+  },
+  "homepage": "https://github.com/bforbis/deck-cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "lodash": "^4.17.15"
+  }
+}
